@@ -1,13 +1,12 @@
-Here’s a README tailored to focus more on your interests in AI for humanitarian causes while still showcasing your technical and academic achievements:
-
----
-
 # Konstantinos (Kosta) Katergaris
 
 **Computer Science Accelerated Master’s Student**  
-**Specializing in Computer Vision and Humanitarian AI**
+**Specializing in Computer Vision**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostakat) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/KostaKat)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostakat) 
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/KostaKat)  
+
 ✉️ **kostakatergaris@outlook.com** 
 
 ---
@@ -50,7 +49,7 @@ My research is focused on applying AI to real-world challenges, particularly tho
 
 ## 📂 **Selected Projects**
 
-### 🌍 **[Mineral Computer Vision: Unsupervised Segmentation](https://github.com/KostaKat/Mineral-CV-Segmentation)**  
+### 🌍 **Mineral Computer Vision: Unsupervised Segmentation**  
 **Feb 2024 – Present**  
 Developed a novel approach for unsupervised segmentation of mineral slides, with potential applications for analyzing similar datasets in humanitarian contexts.
 
@@ -64,7 +63,7 @@ Developed a novel approach for unsupervised segmentation of mineral slides, with
 Developed an AI model aimed at detecting AI-generated images to combat misinformation and preserve digital authenticity.
 
 - Implemented the PatchCraft model to improve image authenticity detection through steganalysis and high-pass filtering.
-- Optimized model performance using Swin-Transformer V2, achieving a 7% improvement in accuracy.
+- Optimized model performance using Swin-Transformer V2, and novel patch selection method achieving a 7% improvement in accuracy.
 - Developed a novel patch selection method to enhance the detection of subtle features in small images.
 
 ---
@@ -75,7 +74,7 @@ Developed an AI model aimed at detecting AI-generated images to combat misinform
 **Feb 2022 – Present**  
 Mentored over 100 students in computer science disciplines, emphasizing foundational programming and data structure skills, while providing personalized learning strategies.
 
-- Designed and implemented a Discord server with a custom bot for the Math and Computer Science tutoring centers, facilitating session logging and automated notifications.
+- Led the implementation of Discord for the Math and Computer Science tutoring centers, developing a custom bot for session logging and automated notifications, enhancing operational efficiency and accessibility for students.
 - Enhanced the students' theoretical and practical understanding of algorithms, MIPS, Java, and C++.
 
 ---
@@ -89,6 +88,4 @@ Mentored over 100 students in computer science disciplines, emphasizing foundati
 
 I am open to collaborating on projects that focus on leveraging AI and computer vision to solve humanitarian challenges. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kostakat) or email!
 
----
 
-This README offers a structured, focused look into your technical skills and interests, while also making your projects stand out. It highlights humanitarian AI as your primary interest, while still allowing room for your technical achievements in computer vision and self-supervised learning. Let me know if you would like any changes or additional details added!
