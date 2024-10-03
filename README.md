@@ -8,7 +8,7 @@ Here’s a README tailored to focus more on your interests in AI for humanitaria
 **Specializing in Computer Vision and Humanitarian AI**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostakat) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/KostaKat)  
-✉️ **kostakatergaris@outlook.com** | 📱 **(480) 652-7774**
+✉️ **kostakatergaris@outlook.com** 
 
 ---
 
