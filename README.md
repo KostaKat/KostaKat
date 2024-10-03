@@ -38,7 +38,7 @@ GPA: 3.75 | Dean’s List | Coursework: Statistical ML, Image Processing, Image 
 
 ## 📂 Projects
 
-- **Mineral Segmentation**: Self-supervised unsupervised segmentation of mineral slides using SWIN-MAE, DinoV2, and CutLER.
+- **Mineral Segmentation**: Self-supervised unsupervised segmentation of mineral slides using SWIN-MAE, DinoV2, and U2Seg.
 - **[Aegis](https://github.com/KostaKat/Aegis)**: Detection of AI-generated images with a 7% accuracy boost via Swin-Transformer V2.
 
 ---
