@@ -19,14 +19,6 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 - **Tools**: Git, Jupyter, Linux, VS Code, Conda
 - **ML Techniques**: Transformers (ViTs), ConvNets, Self-Supervised Learning, Image Segmentation & Classification
 
----
-
-## 🎓 Education
-
-**ASU** – *B.S./M.S. in Computer Science* (Expected Dec 2024)  
-GPA: 3.75 | Dean’s List | Coursework: Statistical ML, Image Processing, Image Processing, Math Methods for Data Science
-
----
 
 ## 🔬 Research Interests
 
@@ -41,14 +33,7 @@ GPA: 3.75 | Dean’s List | Coursework: Statistical ML, Image Processing, Image 
 - **Mineral Segmentation**: Self-supervised unsupervised segmentation of mineral slides using SWIN-MAE, DinoV2, and U2Seg.
 - **[Aegis](https://github.com/KostaKat/Aegis)**: Detection of AI-generated images with a 7% accuracy boost via Swin-Transformer V2.
 
----
 
-## 🧑‍🏫 Tutoring Experience
-
-**CS Tutor @ Scottsdale Community College**  
-Mentored 100+ students in C++, Java, algorithms, & MIPS. Implemented Discord server for tutoring operations, enhancing session logging & notifications.
-
----
 
 ## 🌐 Languages & Interests
 
