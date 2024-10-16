@@ -15,10 +15,9 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 ## 💻 Technical Skills
 
 - **Languages**: Python, C++, Java
-- **Frameworks**: PyTorch, OpenCV, scikit-learn, Hugging Face
-- **Tools**: Git, Jupyter, Linux, VS Code, Conda
-- **ML Techniques**: Transformers (ViTs), ConvNets, Self-Supervised Learning, Image Segmentation & Classification
-
+- **Frameworks**: PyTorch, torchvision, Pillow, OpenCV, scikit-learn, Hugging Face
+- **Tools**: Git, Jupyter, Linux, VS Code, Conda, Docker
+- **Deep Learning**: Transformers (ViTs), ConvNets, Self-Supervised Learning, Image Segmentation, Object-Detection, Classification
 
 ## 🔬 Research Interests
 
@@ -30,10 +29,10 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 
 ## 📂 Projects
 
-- **Mineral Segmentation**: Self-supervised unsupervised segmentation of mineral slides using SWIN-MAE, DinoV2, and U2Seg.
-- **[Aegis](https://github.com/KostaKat/Aegis)**: Detection of AI-generated images with a 7% accuracy boost via Swin-Transformer V2.
+- **Mineral Segmentation**: Developed a self-supervised segmentation method for complex mineral slides using Swin-MAE and DinoV2, improving accuracy in rare mineral detection.
+- **[Aegis](https://github.com/KostaKat/Aegis)**: Improved detection of AI-generated images by 7% using Swin-Transformer V2 
 
-
+---
 
 ## 🌐 Languages & Interests
 
