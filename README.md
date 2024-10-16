@@ -29,7 +29,7 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 
 ## 📂 Projects
 
-- **Mineral Segmentation**: Developed a self-supervised segmentation method for complex mineral slides using Swin-MAE and DinoV2, improving accuracy in rare mineral detection.
+- **Mineral Segmentation**: Developing a self-supervised segmentation method for complex mineral segmentation.
 - **[Aegis](https://github.com/KostaKat/Aegis)**: Improved detection of AI-generated images by 7% using Swin-Transformer V2 
 
 ---
