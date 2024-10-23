@@ -17,7 +17,7 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 - **Languages**: Python, C++, Java
 - **Frameworks**: PyTorch, torchvision, Pillow, OpenCV, scikit-learn, Hugging Face
 - **Tools**: Git, Jupyter, Linux, VS Code, Conda, Docker
-- **Deep Learning**: Transformers (ViTs), ConvNets, Self-Supervised Learning, Image Segmentation, Object-Detection, Classification
+- **Deep Learning**: Transformers (ViTs), ConvNets, Self-Supervised Learning, Image Segmentation, Object-Detection, Classification, Unsupervised Learning
 
 ## 🔬 Research Interests
 
