@@ -1,6 +1,6 @@
 # Konstantinos (Kosta) Katergaris
 
-**Computer Science Accelerated Master’s Student | Computer Vision Specialist**
+**Computer Vision Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostakat) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/KostaKat)  ✉️ **kostakatergaris@outlook.com**  
 
@@ -24,7 +24,8 @@ Accelerated Master's student at ASU with a focus on computer vision and machine 
 - **Humanitarian AI**: Computer vision & deep learning for social impact.
 - **AI-Driven Healthcare**: Intelligent diagnostics & accessibility.
 - **Ethical AI & Detection**: Combating misinformation through image analysis.
-
+- **Self-Supervised Learning**
+- 
 ---
 
 ## 📂 Projects
